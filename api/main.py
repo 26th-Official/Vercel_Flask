@@ -10,7 +10,7 @@ def Sample():
     }),200
     
 @app.route("/test")
-def Sample():
+def Other():
     return jsonify({
         "Status" : "Success",
         "Text" : "Fire"
