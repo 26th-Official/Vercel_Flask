@@ -17,4 +17,4 @@ def Other():
     }),200
     
 if __name__ == "__main__":
-    app.run(port=6565)
+    app.run()
